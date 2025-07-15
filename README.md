@@ -14,3 +14,5 @@ git clone https://github.com/Iankulani/Accurate_Cyber_Bot_Defense_Tool.git
 **How to run**
 
 python Accurate_Cyber_Bot_Defense_Tool.py
+
+<img width="1920" height="1001" alt="Screenshot (564)" src="https://github.com/user-attachments/assets/7bf19067-e35d-422b-802b-aa0476fc9f8f" />
